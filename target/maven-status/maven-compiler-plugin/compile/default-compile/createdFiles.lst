@@ -1,0 +1,10 @@
+com\mycompany\interfaz\IAgua.class
+com\mycompany\interfaz\IElectrico.class
+com\mycompany\logica\Charmander.class
+com\mycompany\logica\Pokemoon.class
+com\mycompany\logica\Video_Juego_Pokemoon.class
+com\mycompany\interfaz\IFuego.class
+com\mycompany\logica\Squirtle.class
+com\mycompany\logica\Bulbasaur.class
+com\mycompany\logica\Pikachu.class
+com\mycompany\interfaz\IPlanta.class
